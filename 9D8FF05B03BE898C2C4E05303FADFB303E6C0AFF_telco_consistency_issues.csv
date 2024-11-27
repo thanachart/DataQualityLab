@@ -1,0 +1,1001 @@
+Gender,LastInteraction,MonthlyCharges,ContractType,CustomerID
+FEMALE,25-11-2024,"70,00",Two Year,1
+M,2024-11-25,70,month-to-month,2
+F,25-11-2024,$70,ONE YEAR,3
+FEMALE,2024-11-25,70,ONE YEAR,4
+F,2024.11.25,seventy,Two Year,5
+FEMALE,2024-11-25,$70,ONE YEAR,6
+F,2024.11.25,70,Two Year,7
+Male,2024-11-25,$70,Two Year,8
+F,2024-11-25,70.00,2 year,9
+Male,25-11-2024,$70,Two Year,10
+Female,2024-11-25,$70,Month-to-Month,11
+Male,2024.11.25,70.00,Month-to-Month,12
+F,25-11-2024,70,Month-to-Month,13
+MALE,2024-11-25,$70,Month-to-Month,14
+MALE,25-11-2024,"70,00",One Year,15
+Female,"Nov 25, 2024",$70,month-to-month,16
+F,25-11-2024,70,month-to-month,17
+Male,"Nov 25, 2024",70.00,Two Year,18
+MALE,"Nov 25, 2024",70,ONE YEAR,19
+FEMALE,25-11-2024,seventy,Month-to-Month,20
+M,2024.11.25,$70,month-to-month,21
+F,2024.11.25,$70,month-to-month,22
+FEMALE,2024.11.25,70.00,Month-to-Month,23
+FEMALE,11/25/2024,$70,One Year,24
+F,"Nov 25, 2024","70,00",One Year,25
+M,25-11-2024,"70,00",month-to-month,26
+MALE,2024.11.25,70,One Year,27
+M,2024.11.25,70.00,2 year,28
+Female,25-11-2024,seventy,Month-to-Month,29
+Male,"Nov 25, 2024",70,month-to-month,30
+Male,25-11-2024,70.00,Month-to-Month,31
+FEMALE,11/25/2024,70.00,One Year,32
+MALE,11/25/2024,70,Month-to-Month,33
+M,25-11-2024,70,One Year,34
+FEMALE,"Nov 25, 2024",$70,One Year,35
+F,2024.11.25,seventy,Month-to-Month,36
+FEMALE,11/25/2024,"70,00",One Year,37
+F,11/25/2024,$70,2 year,38
+F,"Nov 25, 2024",70.00,Two Year,39
+Female,11/25/2024,seventy,Month-to-Month,40
+Female,11/25/2024,seventy,Two Year,41
+F,"Nov 25, 2024",70,Month-to-Month,42
+MALE,25-11-2024,seventy,One Year,43
+Female,2024.11.25,seventy,One Year,44
+Female,2024.11.25,70.00,month-to-month,45
+Male,11/25/2024,$70,2 year,46
+FEMALE,2024.11.25,seventy,month-to-month,47
+Male,25-11-2024,70,Two Year,48
+MALE,11/25/2024,$70,One Year,49
+Female,2024.11.25,70,month-to-month,50
+Female,2024-11-25,seventy,One Year,51
+M,2024-11-25,$70,Month-to-Month,52
+MALE,2024-11-25,seventy,month-to-month,53
+FEMALE,2024-11-25,70.00,Two Year,54
+FEMALE,2024-11-25,$70,month-to-month,55
+FEMALE,11/25/2024,70,One Year,56
+MALE,"Nov 25, 2024",70.00,ONE YEAR,57
+M,"Nov 25, 2024","70,00",ONE YEAR,58
+M,11/25/2024,70,2 year,59
+Male,11/25/2024,seventy,One Year,60
+MALE,25-11-2024,70,Month-to-Month,61
+MALE,"Nov 25, 2024","70,00",month-to-month,62
+M,2024-11-25,70,ONE YEAR,63
+F,11/25/2024,70.00,Month-to-Month,64
+F,2024-11-25,70,One Year,65
+Male,"Nov 25, 2024",$70,Month-to-Month,66
+F,2024.11.25,"70,00",One Year,67
+F,2024.11.25,70,2 year,68
+F,11/25/2024,"70,00",month-to-month,69
+Female,25-11-2024,70.00,Month-to-Month,70
+Male,2024-11-25,$70,month-to-month,71
+M,11/25/2024,seventy,Month-to-Month,72
+F,25-11-2024,70,One Year,73
+FEMALE,2024-11-25,70.00,One Year,74
+Female,"Nov 25, 2024","70,00",Month-to-Month,75
+F,2024.11.25,"70,00",2 year,76
+Female,25-11-2024,70.00,One Year,77
+Male,2024-11-25,70,Two Year,78
+FEMALE,11/25/2024,seventy,Two Year,79
+FEMALE,2024-11-25,70,month-to-month,80
+FEMALE,11/25/2024,$70,Two Year,81
+F,2024.11.25,70,Two Year,82
+Female,2024.11.25,$70,2 year,83
+FEMALE,2024-11-25,"70,00",2 year,84
+MALE,2024-11-25,$70,ONE YEAR,85
+MALE,11/25/2024,seventy,ONE YEAR,86
+Female,11/25/2024,70.00,2 year,87
+F,25-11-2024,$70,ONE YEAR,88
+F,25-11-2024,70,2 year,89
+Male,25-11-2024,$70,ONE YEAR,90
+Male,2024-11-25,"70,00",One Year,91
+FEMALE,25-11-2024,$70,2 year,92
+M,2024-11-25,seventy,month-to-month,93
+Male,2024.11.25,$70,month-to-month,94
+F,"Nov 25, 2024",seventy,2 year,95
+M,2024.11.25,70,Two Year,96
+Male,2024-11-25,"70,00",month-to-month,97
+Female,2024-11-25,70.00,Two Year,98
+MALE,"Nov 25, 2024",70,month-to-month,99
+Male,11/25/2024,70,Month-to-Month,100
+Male,11/25/2024,70.00,Month-to-Month,101
+Female,11/25/2024,$70,2 year,102
+F,25-11-2024,$70,month-to-month,103
+FEMALE,11/25/2024,$70,One Year,104
+Female,25-11-2024,"70,00",Two Year,105
+FEMALE,25-11-2024,70,month-to-month,106
+Male,11/25/2024,seventy,2 year,107
+F,11/25/2024,70.00,Two Year,108
+M,"Nov 25, 2024",70,ONE YEAR,109
+Male,"Nov 25, 2024",$70,2 year,110
+Female,25-11-2024,70.00,month-to-month,111
+M,"Nov 25, 2024",seventy,One Year,112
+MALE,25-11-2024,70,ONE YEAR,113
+M,2024-11-25,70,2 year,114
+Female,25-11-2024,"70,00",month-to-month,115
+M,25-11-2024,70,Month-to-Month,116
+Female,"Nov 25, 2024",70,month-to-month,117
+Male,2024-11-25,seventy,Month-to-Month,118
+F,2024.11.25,seventy,Month-to-Month,119
+MALE,2024.11.25,70.00,2 year,120
+F,2024.11.25,$70,month-to-month,121
+F,2024-11-25,seventy,month-to-month,122
+F,11/25/2024,70.00,Month-to-Month,123
+Female,2024-11-25,70,Two Year,124
+Female,"Nov 25, 2024",70.00,ONE YEAR,125
+MALE,25-11-2024,70.00,One Year,126
+Female,25-11-2024,70.00,month-to-month,127
+FEMALE,"Nov 25, 2024",70.00,ONE YEAR,128
+Female,"Nov 25, 2024",seventy,ONE YEAR,129
+Female,25-11-2024,$70,Two Year,130
+Female,11/25/2024,70.00,ONE YEAR,131
+Male,11/25/2024,"70,00",month-to-month,132
+MALE,11/25/2024,70,2 year,133
+FEMALE,"Nov 25, 2024",70,2 year,134
+Female,25-11-2024,70,ONE YEAR,135
+MALE,25-11-2024,70,month-to-month,136
+M,25-11-2024,70,month-to-month,137
+Male,2024-11-25,70.00,Month-to-Month,138
+Female,2024-11-25,$70,Two Year,139
+FEMALE,2024.11.25,"70,00",One Year,140
+Male,2024-11-25,seventy,Month-to-Month,141
+FEMALE,11/25/2024,"70,00",One Year,142
+Male,11/25/2024,seventy,month-to-month,143
+M,11/25/2024,seventy,2 year,144
+MALE,11/25/2024,"70,00",Month-to-Month,145
+Male,2024.11.25,70.00,ONE YEAR,146
+F,11/25/2024,70,ONE YEAR,147
+M,"Nov 25, 2024",70.00,One Year,148
+F,"Nov 25, 2024",70,month-to-month,149
+M,"Nov 25, 2024",$70,2 year,150
+F,2024-11-25,seventy,One Year,151
+F,25-11-2024,"70,00",2 year,152
+FEMALE,2024.11.25,$70,Two Year,153
+Male,"Nov 25, 2024",70,2 year,154
+Male,"Nov 25, 2024",70.00,ONE YEAR,155
+M,11/25/2024,"70,00",Month-to-Month,156
+MALE,"Nov 25, 2024",seventy,Month-to-Month,157
+FEMALE,11/25/2024,$70,Month-to-Month,158
+Male,11/25/2024,seventy,2 year,159
+Male,25-11-2024,70,ONE YEAR,160
+FEMALE,2024-11-25,seventy,2 year,161
+Female,11/25/2024,70.00,month-to-month,162
+FEMALE,11/25/2024,$70,ONE YEAR,163
+Male,25-11-2024,$70,ONE YEAR,164
+MALE,11/25/2024,70.00,2 year,165
+Female,2024.11.25,seventy,2 year,166
+F,2024-11-25,70.00,Month-to-Month,167
+FEMALE,2024.11.25,"70,00",ONE YEAR,168
+F,"Nov 25, 2024",70.00,Month-to-Month,169
+Female,2024-11-25,seventy,month-to-month,170
+Female,"Nov 25, 2024",70.00,Two Year,171
+Female,11/25/2024,70,Month-to-Month,172
+M,25-11-2024,70.00,2 year,173
+FEMALE,2024.11.25,70.00,One Year,174
+MALE,"Nov 25, 2024",seventy,Two Year,175
+MALE,11/25/2024,"70,00",month-to-month,176
+F,2024.11.25,"70,00",2 year,177
+F,2024.11.25,seventy,Two Year,178
+F,"Nov 25, 2024",seventy,2 year,179
+FEMALE,11/25/2024,seventy,Month-to-Month,180
+Male,25-11-2024,70,2 year,181
+F,"Nov 25, 2024",$70,month-to-month,182
+Female,2024.11.25,70.00,One Year,183
+F,2024.11.25,seventy,Month-to-Month,184
+Female,2024-11-25,seventy,Month-to-Month,185
+M,11/25/2024,seventy,month-to-month,186
+Male,2024-11-25,"70,00",month-to-month,187
+Male,25-11-2024,seventy,Two Year,188
+FEMALE,"Nov 25, 2024",70.00,One Year,189
+FEMALE,2024.11.25,seventy,2 year,190
+MALE,11/25/2024,70.00,Two Year,191
+M,2024.11.25,70,2 year,192
+FEMALE,2024-11-25,$70,2 year,193
+Female,2024-11-25,"70,00",2 year,194
+M,"Nov 25, 2024",70.00,Two Year,195
+Male,11/25/2024,70,Month-to-Month,196
+Female,11/25/2024,$70,month-to-month,197
+M,"Nov 25, 2024",$70,Month-to-Month,198
+Male,2024-11-25,$70,One Year,199
+FEMALE,2024-11-25,70.00,Two Year,200
+Female,2024-11-25,70,One Year,201
+Female,2024.11.25,seventy,month-to-month,202
+Male,25-11-2024,70,month-to-month,203
+Female,2024-11-25,70,ONE YEAR,204
+FEMALE,25-11-2024,70,One Year,205
+FEMALE,25-11-2024,70.00,Month-to-Month,206
+FEMALE,11/25/2024,70.00,One Year,207
+Male,"Nov 25, 2024",70.00,Two Year,208
+F,2024.11.25,70,month-to-month,209
+F,25-11-2024,70.00,month-to-month,210
+Female,2024.11.25,$70,One Year,211
+FEMALE,11/25/2024,70.00,One Year,212
+Female,2024-11-25,"70,00",2 year,213
+Male,25-11-2024,70.00,One Year,214
+Female,"Nov 25, 2024",70.00,2 year,215
+MALE,11/25/2024,70.00,Two Year,216
+F,2024.11.25,70.00,Two Year,217
+Female,2024-11-25,"70,00",Month-to-Month,218
+Female,2024.11.25,seventy,One Year,219
+M,"Nov 25, 2024",70.00,Month-to-Month,220
+Female,25-11-2024,$70,ONE YEAR,221
+MALE,"Nov 25, 2024","70,00",Two Year,222
+F,2024.11.25,seventy,month-to-month,223
+M,2024.11.25,70.00,2 year,224
+Male,"Nov 25, 2024",seventy,ONE YEAR,225
+Male,"Nov 25, 2024",$70,month-to-month,226
+F,"Nov 25, 2024","70,00",ONE YEAR,227
+Male,2024-11-25,"70,00",Month-to-Month,228
+MALE,2024.11.25,seventy,Month-to-Month,229
+Female,11/25/2024,70.00,2 year,230
+F,2024-11-25,70,Two Year,231
+M,2024-11-25,"70,00",2 year,232
+Female,2024-11-25,70,month-to-month,233
+Male,11/25/2024,"70,00",ONE YEAR,234
+Male,"Nov 25, 2024",70.00,2 year,235
+M,2024.11.25,70.00,One Year,236
+MALE,25-11-2024,"70,00",One Year,237
+M,25-11-2024,seventy,Two Year,238
+F,2024.11.25,70.00,2 year,239
+M,11/25/2024,70.00,month-to-month,240
+Male,25-11-2024,$70,One Year,241
+MALE,2024-11-25,70.00,Two Year,242
+MALE,25-11-2024,$70,2 year,243
+FEMALE,2024.11.25,70.00,Two Year,244
+M,2024-11-25,70.00,month-to-month,245
+F,25-11-2024,seventy,One Year,246
+Male,2024.11.25,seventy,One Year,247
+Female,11/25/2024,70.00,One Year,248
+MALE,2024.11.25,"70,00",Month-to-Month,249
+M,11/25/2024,"70,00",One Year,250
+FEMALE,2024-11-25,70.00,ONE YEAR,251
+F,2024.11.25,"70,00",Month-to-Month,252
+F,"Nov 25, 2024",70.00,2 year,253
+Male,"Nov 25, 2024",seventy,Month-to-Month,254
+MALE,"Nov 25, 2024",70,Month-to-Month,255
+Male,"Nov 25, 2024",$70,Month-to-Month,256
+FEMALE,"Nov 25, 2024","70,00",Two Year,257
+Female,11/25/2024,"70,00",ONE YEAR,258
+Female,2024.11.25,seventy,month-to-month,259
+Female,2024-11-25,"70,00",One Year,260
+F,"Nov 25, 2024",70.00,Month-to-Month,261
+MALE,"Nov 25, 2024",70.00,month-to-month,262
+Male,2024-11-25,70,Two Year,263
+Male,2024-11-25,70,month-to-month,264
+FEMALE,"Nov 25, 2024",70,Month-to-Month,265
+Female,11/25/2024,70.00,2 year,266
+MALE,2024-11-25,70,ONE YEAR,267
+MALE,2024.11.25,70,month-to-month,268
+FEMALE,2024.11.25,70.00,Month-to-Month,269
+M,11/25/2024,seventy,Month-to-Month,270
+MALE,25-11-2024,"70,00",One Year,271
+MALE,11/25/2024,$70,2 year,272
+Male,"Nov 25, 2024",70.00,One Year,273
+FEMALE,25-11-2024,70.00,2 year,274
+MALE,"Nov 25, 2024",$70,ONE YEAR,275
+MALE,2024.11.25,$70,One Year,276
+Male,2024-11-25,70,ONE YEAR,277
+MALE,"Nov 25, 2024",$70,Two Year,278
+Male,2024.11.25,"70,00",Two Year,279
+M,11/25/2024,"70,00",2 year,280
+F,"Nov 25, 2024","70,00",2 year,281
+Male,2024.11.25,"70,00",One Year,282
+Male,2024-11-25,"70,00",Two Year,283
+MALE,"Nov 25, 2024",70,month-to-month,284
+Male,2024.11.25,70.00,month-to-month,285
+FEMALE,"Nov 25, 2024",$70,month-to-month,286
+Female,2024-11-25,70.00,Two Year,287
+Female,"Nov 25, 2024",$70,month-to-month,288
+M,"Nov 25, 2024",70,ONE YEAR,289
+Male,2024.11.25,70,Month-to-Month,290
+FEMALE,25-11-2024,seventy,2 year,291
+MALE,"Nov 25, 2024",seventy,One Year,292
+MALE,25-11-2024,70,ONE YEAR,293
+F,11/25/2024,70,month-to-month,294
+M,"Nov 25, 2024",$70,Month-to-Month,295
+FEMALE,25-11-2024,70,One Year,296
+FEMALE,11/25/2024,70.00,ONE YEAR,297
+MALE,2024.11.25,$70,One Year,298
+F,"Nov 25, 2024",70,2 year,299
+MALE,2024.11.25,$70,Two Year,300
+F,11/25/2024,$70,month-to-month,301
+Female,2024.11.25,"70,00",ONE YEAR,302
+FEMALE,2024.11.25,seventy,ONE YEAR,303
+Female,2024-11-25,$70,Month-to-Month,304
+MALE,11/25/2024,$70,Month-to-Month,305
+M,2024.11.25,"70,00",Month-to-Month,306
+Male,25-11-2024,70,One Year,307
+M,11/25/2024,$70,month-to-month,308
+M,2024-11-25,"70,00",One Year,309
+Male,"Nov 25, 2024",70.00,month-to-month,310
+FEMALE,2024.11.25,"70,00",ONE YEAR,311
+Female,25-11-2024,seventy,One Year,312
+Female,2024-11-25,seventy,One Year,313
+FEMALE,11/25/2024,70,One Year,314
+Male,2024.11.25,70,Two Year,315
+F,2024-11-25,seventy,2 year,316
+M,2024-11-25,seventy,month-to-month,317
+MALE,25-11-2024,$70,month-to-month,318
+Female,"Nov 25, 2024",seventy,One Year,319
+FEMALE,"Nov 25, 2024",70,Two Year,320
+MALE,"Nov 25, 2024",seventy,One Year,321
+Male,11/25/2024,70,month-to-month,322
+MALE,2024-11-25,70.00,2 year,323
+MALE,11/25/2024,seventy,2 year,324
+M,2024-11-25,70,ONE YEAR,325
+Male,25-11-2024,"70,00",Two Year,326
+MALE,25-11-2024,$70,2 year,327
+Female,11/25/2024,70,Two Year,328
+Male,11/25/2024,seventy,One Year,329
+Female,25-11-2024,seventy,ONE YEAR,330
+FEMALE,2024.11.25,70.00,month-to-month,331
+FEMALE,"Nov 25, 2024","70,00",2 year,332
+F,"Nov 25, 2024",70,2 year,333
+FEMALE,25-11-2024,"70,00",Month-to-Month,334
+MALE,"Nov 25, 2024",70.00,month-to-month,335
+Male,2024.11.25,$70,2 year,336
+FEMALE,2024.11.25,"70,00",2 year,337
+Female,2024-11-25,70.00,month-to-month,338
+MALE,11/25/2024,70,ONE YEAR,339
+FEMALE,"Nov 25, 2024",$70,Two Year,340
+M,2024.11.25,seventy,month-to-month,341
+Female,11/25/2024,70.00,Two Year,342
+Female,11/25/2024,seventy,ONE YEAR,343
+F,2024-11-25,$70,ONE YEAR,344
+M,11/25/2024,70.00,One Year,345
+F,11/25/2024,70.00,Month-to-Month,346
+FEMALE,25-11-2024,$70,ONE YEAR,347
+M,2024-11-25,70,ONE YEAR,348
+Female,2024-11-25,70.00,Two Year,349
+F,"Nov 25, 2024",$70,ONE YEAR,350
+MALE,11/25/2024,"70,00",month-to-month,351
+M,"Nov 25, 2024",seventy,One Year,352
+Female,2024.11.25,70.00,One Year,353
+Male,11/25/2024,"70,00",month-to-month,354
+M,2024.11.25,70.00,2 year,355
+M,25-11-2024,70,ONE YEAR,356
+FEMALE,11/25/2024,$70,Month-to-Month,357
+MALE,"Nov 25, 2024",70.00,ONE YEAR,358
+FEMALE,"Nov 25, 2024",$70,One Year,359
+M,11/25/2024,70.00,Month-to-Month,360
+M,"Nov 25, 2024",70,2 year,361
+MALE,11/25/2024,70,Two Year,362
+MALE,2024-11-25,"70,00",Two Year,363
+F,"Nov 25, 2024",70,ONE YEAR,364
+Female,11/25/2024,$70,ONE YEAR,365
+Female,11/25/2024,70,Month-to-Month,366
+F,"Nov 25, 2024",70.00,Month-to-Month,367
+Female,2024-11-25,70,2 year,368
+M,"Nov 25, 2024",$70,ONE YEAR,369
+F,11/25/2024,70.00,One Year,370
+F,2024-11-25,"70,00",Two Year,371
+Female,2024.11.25,"70,00",2 year,372
+Male,25-11-2024,"70,00",Month-to-Month,373
+Female,"Nov 25, 2024",70.00,One Year,374
+FEMALE,11/25/2024,"70,00",ONE YEAR,375
+Male,2024-11-25,70,month-to-month,376
+F,2024-11-25,70.00,Month-to-Month,377
+Male,2024.11.25,70.00,2 year,378
+M,"Nov 25, 2024",70.00,month-to-month,379
+MALE,2024-11-25,seventy,One Year,380
+Male,2024.11.25,$70,Two Year,381
+FEMALE,11/25/2024,seventy,One Year,382
+MALE,2024.11.25,seventy,Two Year,383
+M,"Nov 25, 2024",seventy,One Year,384
+FEMALE,2024.11.25,$70,Month-to-Month,385
+MALE,2024-11-25,seventy,Month-to-Month,386
+M,2024-11-25,"70,00",2 year,387
+MALE,25-11-2024,70.00,month-to-month,388
+MALE,2024.11.25,70.00,One Year,389
+Female,11/25/2024,70,One Year,390
+FEMALE,"Nov 25, 2024","70,00",month-to-month,391
+FEMALE,25-11-2024,$70,ONE YEAR,392
+Male,2024.11.25,70.00,2 year,393
+FEMALE,11/25/2024,seventy,One Year,394
+FEMALE,25-11-2024,70,2 year,395
+MALE,2024-11-25,70,One Year,396
+F,"Nov 25, 2024",70.00,One Year,397
+Female,2024.11.25,"70,00",ONE YEAR,398
+Male,11/25/2024,70,Month-to-Month,399
+Female,2024-11-25,70.00,2 year,400
+Male,25-11-2024,"70,00",month-to-month,401
+M,"Nov 25, 2024",70.00,2 year,402
+MALE,25-11-2024,70.00,ONE YEAR,403
+FEMALE,25-11-2024,"70,00",Two Year,404
+FEMALE,11/25/2024,"70,00",Two Year,405
+F,2024-11-25,"70,00",ONE YEAR,406
+Female,2024.11.25,70.00,ONE YEAR,407
+Female,11/25/2024,70,Month-to-Month,408
+Female,"Nov 25, 2024",$70,2 year,409
+FEMALE,25-11-2024,$70,2 year,410
+Female,"Nov 25, 2024",70.00,Two Year,411
+MALE,11/25/2024,70.00,month-to-month,412
+Male,11/25/2024,70,2 year,413
+FEMALE,2024.11.25,"70,00",One Year,414
+MALE,25-11-2024,70.00,One Year,415
+M,11/25/2024,seventy,Month-to-Month,416
+MALE,"Nov 25, 2024","70,00",Month-to-Month,417
+MALE,2024.11.25,70.00,Two Year,418
+M,"Nov 25, 2024",seventy,month-to-month,419
+MALE,25-11-2024,70,month-to-month,420
+Male,2024.11.25,seventy,ONE YEAR,421
+FEMALE,2024.11.25,70.00,Month-to-Month,422
+F,2024.11.25,$70,2 year,423
+M,2024-11-25,70.00,One Year,424
+FEMALE,2024.11.25,$70,2 year,425
+Female,"Nov 25, 2024",70,One Year,426
+Male,"Nov 25, 2024",70,Two Year,427
+F,25-11-2024,"70,00",One Year,428
+Male,11/25/2024,"70,00",2 year,429
+Male,11/25/2024,$70,2 year,430
+Female,2024-11-25,$70,month-to-month,431
+F,2024.11.25,70,month-to-month,432
+Male,2024-11-25,seventy,Month-to-Month,433
+Female,25-11-2024,$70,2 year,434
+M,25-11-2024,$70,Two Year,435
+Female,11/25/2024,seventy,One Year,436
+MALE,25-11-2024,"70,00",Month-to-Month,437
+FEMALE,2024.11.25,"70,00",ONE YEAR,438
+Female,"Nov 25, 2024",$70,ONE YEAR,439
+Female,25-11-2024,"70,00",One Year,440
+Female,2024-11-25,"70,00",One Year,441
+Male,2024.11.25,"70,00",One Year,442
+F,25-11-2024,70,month-to-month,443
+Female,25-11-2024,70.00,One Year,444
+Female,2024.11.25,$70,ONE YEAR,445
+MALE,25-11-2024,$70,One Year,446
+MALE,"Nov 25, 2024",70,2 year,447
+M,11/25/2024,70.00,Two Year,448
+M,2024.11.25,70.00,ONE YEAR,449
+MALE,2024-11-25,70,Two Year,450
+F,25-11-2024,seventy,ONE YEAR,451
+M,11/25/2024,seventy,Month-to-Month,452
+FEMALE,2024-11-25,70.00,2 year,453
+FEMALE,2024-11-25,seventy,ONE YEAR,454
+F,"Nov 25, 2024",seventy,2 year,455
+MALE,11/25/2024,seventy,ONE YEAR,456
+M,2024.11.25,70.00,Two Year,457
+Female,11/25/2024,seventy,Two Year,458
+MALE,11/25/2024,$70,ONE YEAR,459
+M,2024-11-25,70.00,ONE YEAR,460
+F,"Nov 25, 2024",70,month-to-month,461
+FEMALE,"Nov 25, 2024",seventy,2 year,462
+F,11/25/2024,"70,00",2 year,463
+M,11/25/2024,70.00,2 year,464
+F,25-11-2024,70,2 year,465
+M,2024-11-25,$70,Month-to-Month,466
+M,2024.11.25,70,Month-to-Month,467
+F,2024.11.25,seventy,One Year,468
+Male,"Nov 25, 2024","70,00",ONE YEAR,469
+Female,2024-11-25,seventy,ONE YEAR,470
+MALE,"Nov 25, 2024",70,ONE YEAR,471
+FEMALE,2024.11.25,70.00,ONE YEAR,472
+Female,11/25/2024,"70,00",2 year,473
+MALE,2024-11-25,"70,00",2 year,474
+MALE,2024-11-25,70,Month-to-Month,475
+FEMALE,25-11-2024,seventy,Two Year,476
+Female,11/25/2024,70,month-to-month,477
+FEMALE,11/25/2024,"70,00",2 year,478
+M,"Nov 25, 2024",70,2 year,479
+FEMALE,2024-11-25,"70,00",2 year,480
+F,"Nov 25, 2024",seventy,Two Year,481
+Male,11/25/2024,70.00,Two Year,482
+Male,25-11-2024,70.00,Month-to-Month,483
+Male,2024-11-25,70,2 year,484
+Female,11/25/2024,"70,00",month-to-month,485
+Female,25-11-2024,70.00,ONE YEAR,486
+M,2024.11.25,"70,00",2 year,487
+Male,11/25/2024,seventy,Month-to-Month,488
+M,2024.11.25,70,Month-to-Month,489
+Male,"Nov 25, 2024","70,00",month-to-month,490
+Female,2024.11.25,70,One Year,491
+F,11/25/2024,"70,00",Month-to-Month,492
+F,2024.11.25,"70,00",Two Year,493
+F,2024-11-25,seventy,Two Year,494
+FEMALE,11/25/2024,70,ONE YEAR,495
+F,25-11-2024,$70,Month-to-Month,496
+MALE,2024.11.25,"70,00",ONE YEAR,497
+Male,2024-11-25,"70,00",Month-to-Month,498
+F,"Nov 25, 2024",70.00,month-to-month,499
+MALE,"Nov 25, 2024",70,2 year,500
+MALE,2024.11.25,$70,Month-to-Month,501
+MALE,"Nov 25, 2024",seventy,One Year,502
+M,25-11-2024,$70,Two Year,503
+M,11/25/2024,seventy,month-to-month,504
+MALE,2024-11-25,$70,2 year,505
+FEMALE,2024.11.25,$70,2 year,506
+F,"Nov 25, 2024",70,Two Year,507
+Male,11/25/2024,70.00,2 year,508
+FEMALE,25-11-2024,$70,ONE YEAR,509
+Female,"Nov 25, 2024","70,00",month-to-month,510
+M,"Nov 25, 2024","70,00",One Year,511
+F,2024-11-25,"70,00",Two Year,512
+F,25-11-2024,70.00,Month-to-Month,513
+Female,25-11-2024,$70,Month-to-Month,514
+Female,2024.11.25,seventy,Month-to-Month,515
+F,2024-11-25,seventy,month-to-month,516
+Female,2024.11.25,70,One Year,517
+F,2024-11-25,70.00,2 year,518
+FEMALE,25-11-2024,$70,One Year,519
+Female,2024-11-25,"70,00",One Year,520
+FEMALE,2024-11-25,70.00,Two Year,521
+FEMALE,2024-11-25,70.00,month-to-month,522
+Female,11/25/2024,$70,Month-to-Month,523
+F,11/25/2024,70,Two Year,524
+MALE,25-11-2024,70,2 year,525
+F,2024-11-25,70,One Year,526
+Male,25-11-2024,"70,00",Month-to-Month,527
+Female,11/25/2024,"70,00",month-to-month,528
+M,2024-11-25,$70,ONE YEAR,529
+Female,2024.11.25,70,One Year,530
+Male,11/25/2024,$70,One Year,531
+FEMALE,11/25/2024,70,One Year,532
+M,11/25/2024,70.00,One Year,533
+M,2024-11-25,seventy,Month-to-Month,534
+F,"Nov 25, 2024",seventy,month-to-month,535
+MALE,2024.11.25,70,Two Year,536
+F,2024.11.25,$70,Month-to-Month,537
+M,25-11-2024,"70,00",month-to-month,538
+M,2024-11-25,70,Two Year,539
+MALE,11/25/2024,70,One Year,540
+Female,"Nov 25, 2024","70,00",month-to-month,541
+MALE,2024-11-25,70,One Year,542
+FEMALE,2024-11-25,70.00,month-to-month,543
+F,"Nov 25, 2024","70,00",2 year,544
+Female,11/25/2024,70.00,ONE YEAR,545
+F,2024-11-25,seventy,One Year,546
+MALE,2024.11.25,"70,00",One Year,547
+Female,2024.11.25,"70,00",One Year,548
+MALE,"Nov 25, 2024",$70,2 year,549
+FEMALE,11/25/2024,$70,Month-to-Month,550
+Male,"Nov 25, 2024","70,00",Two Year,551
+M,2024-11-25,seventy,One Year,552
+Female,2024.11.25,70,One Year,553
+M,25-11-2024,$70,Month-to-Month,554
+Male,"Nov 25, 2024",seventy,Month-to-Month,555
+Female,25-11-2024,seventy,ONE YEAR,556
+M,25-11-2024,$70,month-to-month,557
+M,2024.11.25,70,One Year,558
+Female,"Nov 25, 2024",$70,month-to-month,559
+M,25-11-2024,seventy,Month-to-Month,560
+M,2024-11-25,70.00,Month-to-Month,561
+Female,11/25/2024,$70,ONE YEAR,562
+M,11/25/2024,seventy,Two Year,563
+M,2024.11.25,$70,2 year,564
+F,"Nov 25, 2024",seventy,2 year,565
+FEMALE,"Nov 25, 2024",70,2 year,566
+F,11/25/2024,seventy,Month-to-Month,567
+Male,2024-11-25,"70,00",One Year,568
+F,11/25/2024,70.00,ONE YEAR,569
+F,11/25/2024,seventy,Two Year,570
+Male,"Nov 25, 2024",$70,2 year,571
+M,25-11-2024,$70,ONE YEAR,572
+M,2024-11-25,seventy,Month-to-Month,573
+F,"Nov 25, 2024","70,00",2 year,574
+Male,11/25/2024,seventy,Two Year,575
+M,25-11-2024,70,month-to-month,576
+MALE,2024-11-25,"70,00",Two Year,577
+Female,2024.11.25,seventy,One Year,578
+Female,2024-11-25,70.00,2 year,579
+FEMALE,2024-11-25,"70,00",2 year,580
+Female,11/25/2024,seventy,month-to-month,581
+F,11/25/2024,70.00,month-to-month,582
+Female,2024.11.25,seventy,2 year,583
+Female,2024.11.25,70,One Year,584
+MALE,2024.11.25,$70,month-to-month,585
+M,"Nov 25, 2024",seventy,Month-to-Month,586
+MALE,"Nov 25, 2024","70,00",2 year,587
+F,11/25/2024,seventy,Two Year,588
+Female,11/25/2024,seventy,Two Year,589
+M,2024.11.25,seventy,One Year,590
+FEMALE,"Nov 25, 2024",seventy,Month-to-Month,591
+FEMALE,25-11-2024,"70,00",month-to-month,592
+Female,"Nov 25, 2024","70,00",2 year,593
+Female,11/25/2024,seventy,Two Year,594
+FEMALE,"Nov 25, 2024",$70,Two Year,595
+FEMALE,11/25/2024,seventy,Two Year,596
+F,2024.11.25,"70,00",Two Year,597
+Female,2024.11.25,70,ONE YEAR,598
+FEMALE,2024.11.25,seventy,One Year,599
+Male,25-11-2024,seventy,month-to-month,600
+FEMALE,25-11-2024,seventy,2 year,601
+M,11/25/2024,seventy,2 year,602
+M,2024-11-25,70.00,2 year,603
+Male,25-11-2024,seventy,month-to-month,604
+F,11/25/2024,"70,00",One Year,605
+Female,"Nov 25, 2024","70,00",Month-to-Month,606
+Female,2024.11.25,70.00,One Year,607
+FEMALE,2024.11.25,seventy,Two Year,608
+M,2024.11.25,$70,Two Year,609
+F,11/25/2024,seventy,One Year,610
+F,2024.11.25,"70,00",One Year,611
+F,25-11-2024,70,month-to-month,612
+FEMALE,"Nov 25, 2024",70,month-to-month,613
+Female,2024.11.25,$70,ONE YEAR,614
+F,11/25/2024,seventy,2 year,615
+FEMALE,"Nov 25, 2024",70.00,ONE YEAR,616
+FEMALE,2024.11.25,seventy,2 year,617
+Male,2024-11-25,$70,Two Year,618
+MALE,2024.11.25,$70,ONE YEAR,619
+F,25-11-2024,$70,ONE YEAR,620
+MALE,"Nov 25, 2024",70,Month-to-Month,621
+Female,25-11-2024,seventy,One Year,622
+FEMALE,2024-11-25,seventy,month-to-month,623
+F,2024-11-25,70.00,ONE YEAR,624
+M,25-11-2024,$70,month-to-month,625
+Female,"Nov 25, 2024",$70,2 year,626
+Male,2024-11-25,"70,00",ONE YEAR,627
+Male,2024-11-25,"70,00",2 year,628
+MALE,2024.11.25,70,ONE YEAR,629
+FEMALE,11/25/2024,seventy,Two Year,630
+MALE,2024-11-25,70.00,Month-to-Month,631
+M,"Nov 25, 2024",70.00,2 year,632
+M,"Nov 25, 2024",$70,One Year,633
+Male,2024.11.25,70.00,One Year,634
+F,"Nov 25, 2024",$70,Two Year,635
+Male,2024.11.25,seventy,Two Year,636
+Male,2024-11-25,70.00,One Year,637
+M,2024-11-25,$70,2 year,638
+MALE,2024-11-25,seventy,One Year,639
+M,2024-11-25,seventy,Month-to-Month,640
+FEMALE,11/25/2024,$70,ONE YEAR,641
+M,11/25/2024,$70,Month-to-Month,642
+M,2024-11-25,70,One Year,643
+Male,"Nov 25, 2024",seventy,ONE YEAR,644
+F,2024.11.25,$70,One Year,645
+Male,25-11-2024,seventy,Month-to-Month,646
+Female,2024.11.25,70.00,Month-to-Month,647
+M,25-11-2024,"70,00",2 year,648
+M,25-11-2024,"70,00",2 year,649
+Female,2024-11-25,$70,Month-to-Month,650
+M,25-11-2024,$70,ONE YEAR,651
+M,2024-11-25,seventy,2 year,652
+FEMALE,11/25/2024,$70,2 year,653
+M,"Nov 25, 2024",seventy,month-to-month,654
+Female,25-11-2024,$70,month-to-month,655
+Male,"Nov 25, 2024",seventy,2 year,656
+M,2024-11-25,$70,One Year,657
+F,25-11-2024,70,ONE YEAR,658
+Female,2024.11.25,seventy,Two Year,659
+MALE,11/25/2024,70,2 year,660
+FEMALE,11/25/2024,70,month-to-month,661
+Female,25-11-2024,70,ONE YEAR,662
+Male,11/25/2024,70,ONE YEAR,663
+Female,2024.11.25,70.00,month-to-month,664
+MALE,"Nov 25, 2024","70,00",ONE YEAR,665
+FEMALE,2024.11.25,70.00,ONE YEAR,666
+F,11/25/2024,$70,month-to-month,667
+MALE,"Nov 25, 2024",$70,Month-to-Month,668
+Female,2024.11.25,"70,00",2 year,669
+MALE,2024-11-25,"70,00",One Year,670
+Female,2024-11-25,"70,00",Two Year,671
+F,"Nov 25, 2024",70,One Year,672
+F,"Nov 25, 2024",70.00,Month-to-Month,673
+Male,"Nov 25, 2024",$70,Month-to-Month,674
+F,2024-11-25,70.00,ONE YEAR,675
+M,2024.11.25,70.00,One Year,676
+MALE,"Nov 25, 2024",70.00,Month-to-Month,677
+MALE,2024-11-25,"70,00",One Year,678
+Female,"Nov 25, 2024","70,00",Month-to-Month,679
+F,"Nov 25, 2024",$70,Two Year,680
+Male,"Nov 25, 2024",$70,Month-to-Month,681
+Male,2024-11-25,$70,One Year,682
+Male,2024.11.25,70.00,ONE YEAR,683
+FEMALE,2024-11-25,"70,00",One Year,684
+M,2024-11-25,70,month-to-month,685
+F,"Nov 25, 2024",70.00,One Year,686
+Male,25-11-2024,seventy,Two Year,687
+M,25-11-2024,70.00,2 year,688
+MALE,25-11-2024,"70,00",Two Year,689
+Female,2024-11-25,seventy,Two Year,690
+F,"Nov 25, 2024",70.00,Month-to-Month,691
+F,25-11-2024,"70,00",Two Year,692
+FEMALE,11/25/2024,"70,00",One Year,693
+MALE,11/25/2024,70,2 year,694
+F,11/25/2024,70.00,ONE YEAR,695
+FEMALE,2024.11.25,"70,00",Two Year,696
+FEMALE,"Nov 25, 2024",$70,One Year,697
+FEMALE,2024-11-25,"70,00",Month-to-Month,698
+F,2024-11-25,70,Month-to-Month,699
+F,"Nov 25, 2024","70,00",ONE YEAR,700
+F,2024.11.25,70.00,ONE YEAR,701
+M,"Nov 25, 2024",70.00,One Year,702
+FEMALE,2024.11.25,seventy,ONE YEAR,703
+M,25-11-2024,70.00,ONE YEAR,704
+Female,25-11-2024,seventy,Month-to-Month,705
+F,2024.11.25,$70,One Year,706
+MALE,"Nov 25, 2024",70,2 year,707
+Male,25-11-2024,$70,ONE YEAR,708
+Female,"Nov 25, 2024",seventy,One Year,709
+Male,25-11-2024,"70,00",Two Year,710
+Male,"Nov 25, 2024","70,00",Month-to-Month,711
+F,"Nov 25, 2024",$70,2 year,712
+MALE,11/25/2024,"70,00",Month-to-Month,713
+Male,2024.11.25,seventy,Month-to-Month,714
+FEMALE,2024-11-25,70,month-to-month,715
+Male,2024.11.25,70.00,One Year,716
+Female,"Nov 25, 2024",seventy,Two Year,717
+MALE,"Nov 25, 2024",seventy,ONE YEAR,718
+MALE,2024.11.25,70.00,Two Year,719
+Male,"Nov 25, 2024",70.00,One Year,720
+MALE,25-11-2024,70,Month-to-Month,721
+Female,"Nov 25, 2024",70,month-to-month,722
+Female,2024.11.25,70,One Year,723
+Female,2024.11.25,"70,00",2 year,724
+FEMALE,2024.11.25,seventy,2 year,725
+F,11/25/2024,70.00,One Year,726
+Male,11/25/2024,seventy,ONE YEAR,727
+MALE,11/25/2024,seventy,Two Year,728
+Female,11/25/2024,70,Two Year,729
+Male,11/25/2024,70,ONE YEAR,730
+Male,11/25/2024,seventy,month-to-month,731
+F,11/25/2024,70,Month-to-Month,732
+FEMALE,2024.11.25,"70,00",Month-to-Month,733
+MALE,2024-11-25,70.00,2 year,734
+FEMALE,11/25/2024,seventy,month-to-month,735
+MALE,2024.11.25,70.00,ONE YEAR,736
+Female,2024-11-25,"70,00",One Year,737
+Female,11/25/2024,70,Two Year,738
+Male,2024-11-25,$70,One Year,739
+MALE,2024-11-25,"70,00",Two Year,740
+MALE,25-11-2024,$70,One Year,741
+FEMALE,"Nov 25, 2024",70.00,ONE YEAR,742
+Female,25-11-2024,seventy,ONE YEAR,743
+M,2024-11-25,70,month-to-month,744
+Male,2024.11.25,"70,00",One Year,745
+MALE,11/25/2024,70,One Year,746
+F,"Nov 25, 2024",$70,month-to-month,747
+F,11/25/2024,$70,month-to-month,748
+M,2024.11.25,seventy,ONE YEAR,749
+Female,"Nov 25, 2024",$70,ONE YEAR,750
+Female,25-11-2024,seventy,2 year,751
+Female,2024-11-25,"70,00",One Year,752
+FEMALE,2024.11.25,seventy,ONE YEAR,753
+F,2024-11-25,$70,ONE YEAR,754
+Female,2024-11-25,70.00,One Year,755
+F,11/25/2024,seventy,month-to-month,756
+M,2024.11.25,70,One Year,757
+Male,2024-11-25,70.00,Month-to-Month,758
+FEMALE,25-11-2024,seventy,One Year,759
+MALE,"Nov 25, 2024",70,Month-to-Month,760
+M,2024.11.25,70.00,One Year,761
+F,11/25/2024,seventy,Month-to-Month,762
+M,2024.11.25,"70,00",Month-to-Month,763
+MALE,11/25/2024,70,One Year,764
+FEMALE,"Nov 25, 2024","70,00",2 year,765
+Male,25-11-2024,$70,ONE YEAR,766
+MALE,2024-11-25,seventy,Two Year,767
+FEMALE,2024.11.25,seventy,ONE YEAR,768
+F,11/25/2024,70,Month-to-Month,769
+MALE,"Nov 25, 2024",seventy,One Year,770
+M,2024-11-25,$70,One Year,771
+Female,"Nov 25, 2024",seventy,One Year,772
+M,25-11-2024,70.00,One Year,773
+F,2024-11-25,"70,00",2 year,774
+Male,2024-11-25,$70,Two Year,775
+MALE,2024-11-25,$70,month-to-month,776
+Male,11/25/2024,"70,00",Month-to-Month,777
+F,2024-11-25,"70,00",Two Year,778
+MALE,"Nov 25, 2024",$70,ONE YEAR,779
+FEMALE,11/25/2024,"70,00",month-to-month,780
+FEMALE,2024-11-25,70,month-to-month,781
+M,"Nov 25, 2024","70,00",One Year,782
+M,"Nov 25, 2024",70.00,Two Year,783
+F,2024.11.25,70.00,ONE YEAR,784
+FEMALE,"Nov 25, 2024",70,One Year,785
+MALE,25-11-2024,"70,00",One Year,786
+FEMALE,2024-11-25,70.00,2 year,787
+M,2024-11-25,seventy,Month-to-Month,788
+F,2024-11-25,"70,00",month-to-month,789
+FEMALE,"Nov 25, 2024",70,ONE YEAR,790
+F,"Nov 25, 2024","70,00",month-to-month,791
+FEMALE,2024-11-25,$70,Two Year,792
+Male,11/25/2024,$70,Month-to-Month,793
+FEMALE,11/25/2024,70.00,One Year,794
+M,25-11-2024,$70,Month-to-Month,795
+MALE,2024.11.25,70,One Year,796
+M,25-11-2024,70.00,Month-to-Month,797
+M,2024-11-25,70,One Year,798
+M,2024-11-25,70,month-to-month,799
+F,2024-11-25,$70,month-to-month,800
+Female,2024.11.25,$70,month-to-month,801
+Female,"Nov 25, 2024",70,month-to-month,802
+Male,2024.11.25,$70,Month-to-Month,803
+M,25-11-2024,$70,One Year,804
+Female,"Nov 25, 2024",$70,month-to-month,805
+Male,"Nov 25, 2024","70,00",Month-to-Month,806
+F,25-11-2024,70,One Year,807
+M,"Nov 25, 2024",seventy,Month-to-Month,808
+MALE,11/25/2024,70,2 year,809
+F,25-11-2024,70.00,month-to-month,810
+Male,25-11-2024,$70,Two Year,811
+F,11/25/2024,$70,Month-to-Month,812
+MALE,2024.11.25,seventy,month-to-month,813
+F,2024.11.25,70.00,ONE YEAR,814
+Male,2024.11.25,"70,00",One Year,815
+MALE,"Nov 25, 2024",70,2 year,816
+MALE,11/25/2024,"70,00",month-to-month,817
+F,25-11-2024,70.00,ONE YEAR,818
+MALE,25-11-2024,seventy,Month-to-Month,819
+F,25-11-2024,70.00,Month-to-Month,820
+M,"Nov 25, 2024",seventy,ONE YEAR,821
+MALE,"Nov 25, 2024","70,00",2 year,822
+F,2024.11.25,"70,00",ONE YEAR,823
+M,"Nov 25, 2024",70.00,One Year,824
+MALE,2024.11.25,70.00,Month-to-Month,825
+M,2024.11.25,$70,ONE YEAR,826
+FEMALE,25-11-2024,seventy,Two Year,827
+MALE,"Nov 25, 2024",$70,Two Year,828
+FEMALE,2024.11.25,70,ONE YEAR,829
+Male,11/25/2024,70,One Year,830
+Male,11/25/2024,70.00,Month-to-Month,831
+F,"Nov 25, 2024","70,00",Two Year,832
+Female,25-11-2024,70,ONE YEAR,833
+FEMALE,25-11-2024,70,ONE YEAR,834
+FEMALE,2024.11.25,$70,month-to-month,835
+Male,"Nov 25, 2024",$70,ONE YEAR,836
+FEMALE,11/25/2024,70,One Year,837
+Female,2024.11.25,70.00,Two Year,838
+M,2024.11.25,$70,month-to-month,839
+M,2024-11-25,70,Two Year,840
+Female,"Nov 25, 2024","70,00",Two Year,841
+FEMALE,2024.11.25,$70,One Year,842
+FEMALE,11/25/2024,70,ONE YEAR,843
+FEMALE,2024-11-25,seventy,One Year,844
+F,11/25/2024,$70,ONE YEAR,845
+MALE,25-11-2024,seventy,month-to-month,846
+Female,2024-11-25,$70,One Year,847
+Female,2024-11-25,$70,One Year,848
+Female,2024.11.25,seventy,2 year,849
+Female,25-11-2024,70.00,Month-to-Month,850
+Female,2024.11.25,70,One Year,851
+FEMALE,"Nov 25, 2024",70.00,2 year,852
+F,11/25/2024,70.00,Month-to-Month,853
+Male,11/25/2024,70,ONE YEAR,854
+FEMALE,2024.11.25,"70,00",ONE YEAR,855
+FEMALE,11/25/2024,70.00,ONE YEAR,856
+MALE,11/25/2024,70.00,2 year,857
+Male,"Nov 25, 2024",70.00,2 year,858
+Female,25-11-2024,"70,00",Month-to-Month,859
+Male,2024-11-25,$70,ONE YEAR,860
+F,2024.11.25,seventy,Two Year,861
+M,2024.11.25,seventy,One Year,862
+FEMALE,"Nov 25, 2024","70,00",2 year,863
+Male,"Nov 25, 2024",70.00,2 year,864
+MALE,2024-11-25,seventy,2 year,865
+F,25-11-2024,"70,00",Month-to-Month,866
+M,2024.11.25,70,ONE YEAR,867
+F,"Nov 25, 2024",seventy,Two Year,868
+Female,2024.11.25,70,One Year,869
+M,11/25/2024,70.00,One Year,870
+MALE,2024.11.25,seventy,ONE YEAR,871
+M,25-11-2024,"70,00",Two Year,872
+MALE,25-11-2024,$70,Month-to-Month,873
+Female,2024.11.25,seventy,2 year,874
+MALE,11/25/2024,seventy,2 year,875
+F,25-11-2024,seventy,ONE YEAR,876
+Male,"Nov 25, 2024",seventy,One Year,877
+F,2024.11.25,"70,00",2 year,878
+FEMALE,11/25/2024,"70,00",One Year,879
+F,"Nov 25, 2024",$70,One Year,880
+M,2024.11.25,"70,00",ONE YEAR,881
+Female,11/25/2024,"70,00",month-to-month,882
+FEMALE,"Nov 25, 2024",70.00,month-to-month,883
+FEMALE,25-11-2024,70.00,month-to-month,884
+FEMALE,2024.11.25,70,Two Year,885
+Male,2024.11.25,$70,ONE YEAR,886
+MALE,25-11-2024,70.00,One Year,887
+M,2024-11-25,$70,2 year,888
+Female,"Nov 25, 2024",$70,Two Year,889
+Male,25-11-2024,seventy,month-to-month,890
+F,2024.11.25,$70,Month-to-Month,891
+Female,"Nov 25, 2024",seventy,Two Year,892
+FEMALE,"Nov 25, 2024",70,Two Year,893
+Female,2024-11-25,70,ONE YEAR,894
+Female,2024.11.25,70,2 year,895
+F,11/25/2024,seventy,Two Year,896
+MALE,2024-11-25,seventy,2 year,897
+M,2024-11-25,70,ONE YEAR,898
+FEMALE,11/25/2024,seventy,Month-to-Month,899
+MALE,11/25/2024,"70,00",One Year,900
+Male,2024-11-25,"70,00",One Year,901
+FEMALE,"Nov 25, 2024",seventy,month-to-month,902
+M,25-11-2024,seventy,month-to-month,903
+Male,25-11-2024,70.00,Month-to-Month,904
+F,2024-11-25,70.00,One Year,905
+MALE,"Nov 25, 2024",$70,month-to-month,906
+FEMALE,11/25/2024,$70,2 year,907
+Female,2024-11-25,$70,Two Year,908
+M,2024.11.25,70,ONE YEAR,909
+FEMALE,"Nov 25, 2024","70,00",month-to-month,910
+Female,2024.11.25,70,Month-to-Month,911
+FEMALE,2024.11.25,seventy,One Year,912
+Male,2024-11-25,70.00,Month-to-Month,913
+Female,"Nov 25, 2024",seventy,ONE YEAR,914
+Female,2024.11.25,seventy,ONE YEAR,915
+FEMALE,"Nov 25, 2024",70.00,Month-to-Month,916
+F,25-11-2024,seventy,month-to-month,917
+F,2024.11.25,$70,month-to-month,918
+MALE,2024.11.25,70.00,One Year,919
+Male,"Nov 25, 2024",seventy,2 year,920
+F,25-11-2024,$70,One Year,921
+FEMALE,2024.11.25,$70,Two Year,922
+F,2024-11-25,"70,00",2 year,923
+MALE,"Nov 25, 2024",$70,Two Year,924
+M,"Nov 25, 2024",70,One Year,925
+MALE,2024.11.25,70.00,2 year,926
+Female,25-11-2024,70.00,2 year,927
+Female,2024.11.25,70.00,Two Year,928
+F,11/25/2024,seventy,Month-to-Month,929
+F,2024.11.25,seventy,month-to-month,930
+MALE,11/25/2024,70,2 year,931
+MALE,2024-11-25,$70,2 year,932
+FEMALE,"Nov 25, 2024",seventy,Two Year,933
+Male,"Nov 25, 2024",$70,2 year,934
+FEMALE,25-11-2024,$70,Two Year,935
+Female,2024.11.25,seventy,Month-to-Month,936
+FEMALE,2024-11-25,seventy,2 year,937
+MALE,11/25/2024,70,ONE YEAR,938
+FEMALE,25-11-2024,"70,00",One Year,939
+M,2024-11-25,70.00,Month-to-Month,940
+Male,2024-11-25,seventy,ONE YEAR,941
+MALE,11/25/2024,seventy,Month-to-Month,942
+F,11/25/2024,$70,month-to-month,943
+FEMALE,"Nov 25, 2024","70,00",Month-to-Month,944
+MALE,2024.11.25,seventy,Month-to-Month,945
+F,25-11-2024,"70,00",month-to-month,946
+F,2024.11.25,70.00,2 year,947
+Female,25-11-2024,$70,One Year,948
+Female,2024-11-25,70,ONE YEAR,949
+MALE,11/25/2024,70.00,Two Year,950
+MALE,11/25/2024,"70,00",One Year,951
+M,2024-11-25,"70,00",Month-to-Month,952
+Male,2024-11-25,70.00,Two Year,953
+Male,25-11-2024,"70,00",month-to-month,954
+MALE,2024-11-25,70,One Year,955
+Female,25-11-2024,70,2 year,956
+FEMALE,2024.11.25,"70,00",ONE YEAR,957
+M,11/25/2024,"70,00",One Year,958
+Male,11/25/2024,70,One Year,959
+MALE,11/25/2024,"70,00",2 year,960
+Female,2024.11.25,seventy,Two Year,961
+Female,2024.11.25,$70,month-to-month,962
+Female,"Nov 25, 2024",seventy,2 year,963
+FEMALE,25-11-2024,"70,00",month-to-month,964
+F,25-11-2024,"70,00",2 year,965
+FEMALE,"Nov 25, 2024",$70,One Year,966
+Female,11/25/2024,"70,00",month-to-month,967
+MALE,25-11-2024,$70,Two Year,968
+M,25-11-2024,70,Two Year,969
+FEMALE,11/25/2024,$70,ONE YEAR,970
+MALE,2024-11-25,$70,month-to-month,971
+Female,2024-11-25,seventy,ONE YEAR,972
+M,"Nov 25, 2024","70,00",2 year,973
+Male,2024.11.25,70,Month-to-Month,974
+Male,25-11-2024,70.00,Two Year,975
+MALE,25-11-2024,$70,One Year,976
+M,"Nov 25, 2024",70.00,Two Year,977
+MALE,"Nov 25, 2024","70,00",Month-to-Month,978
+M,25-11-2024,$70,One Year,979
+M,11/25/2024,70.00,month-to-month,980
+MALE,11/25/2024,seventy,month-to-month,981
+M,2024.11.25,70.00,Two Year,982
+FEMALE,25-11-2024,seventy,One Year,983
+Female,25-11-2024,70,2 year,984
+M,25-11-2024,"70,00",One Year,985
+FEMALE,25-11-2024,70.00,ONE YEAR,986
+M,"Nov 25, 2024",$70,Month-to-Month,987
+FEMALE,2024-11-25,"70,00",month-to-month,988
+MALE,25-11-2024,70.00,Two Year,989
+Male,2024-11-25,$70,One Year,990
+F,11/25/2024,$70,month-to-month,991
+M,2024.11.25,$70,Two Year,992
+F,11/25/2024,$70,month-to-month,993
+M,25-11-2024,70.00,Two Year,994
+MALE,11/25/2024,70,month-to-month,995
+MALE,"Nov 25, 2024",seventy,2 year,996
+FEMALE,2024-11-25,seventy,ONE YEAR,997
+M,25-11-2024,seventy,Month-to-Month,998
+MALE,"Nov 25, 2024",70,month-to-month,999
+MALE,2024-11-25,$70,Month-to-Month,1000
